@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab3b {
+public class lab3b {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -20,4 +20,5 @@ public class Lab3b {
 
         System.out.println("Program ended because invalid input was entered.");
 }
+
 }
