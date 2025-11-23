@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabTask1 {
+public class LAB1 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
@@ -18,3 +18,4 @@ public class LabTask1 {
         System.out.println("The distance between the two points is " + distance + " km");
     }
 }
+
