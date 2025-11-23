@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LabTask5 {
+public class lab5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a string: ");
@@ -13,3 +13,4 @@ public class LabTask5 {
             System.out.println(str + " is not a palindrome");
     }
 }
+
